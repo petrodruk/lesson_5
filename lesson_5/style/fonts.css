@@ -1,0 +1,38 @@
+/* --------------- AvenirLT-------------------*/
+@font-face {
+    font-family: "AvenirLT";
+    src: url(../fonts/AvenirLT-Heavy.woff2), url(../fonts/AvenirLT-Heavy.woff);
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AvenirLT";
+    src: url(../fonts/AvenirLT-Light.woff2), url(../fonts/AvenirLT-Light.woff);
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+/*----------------------Mintaka-------------*/
+@font-face {
+    font-family: "Mintaka";
+    src: url(../fonts/Mintaka.woff2), url(../fonts/Mintaka.woff);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+/*-------------------Core Sans Ds-------------*/
+@font-face {
+    font-family: "CoreSansDs";
+    src: url(../fonts/CoreSansDS15Thin.woff2), url(../fonts/CoreSansDS15Thin.woff);
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CoreSansDs";
+    src: url(../fonts/CoreSansDS45Medium.woff2), url(../fonts/CoreSansDS45Medium.woff);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,164 @@
+@import url(fonts.css);
+body {
+    font-family: "Cormorant Infant";
+    font-weight: 400;
+    font-size: 18px;
+}
+/* --------------- Загальні блоки---------*/
+span {
+    text-decoration: line-through;
+}
+.title-games,
+.history-game-title,
+.title-types {
+    font-size: 24px;
+}
+.footer-link,
+h3 {
+    text-decoration: underline;
+}
+h3 {
+    font-size: 20px;
+    color: darkgoldenrod;
+    font-family: "AvenirLT";
+    font-weight: 900;
+}
+.consulting-title,
+.multimedia-title {
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.consulting-text,
+.multimedia-text,
+.block-text {
+    font-family: "Inter";
+    font-weight: 400;
+    color: #7d7d7d;
+}
+
+.consulting-text,
+.multimedia-text {
+    line-height: 1.4;
+}
+.menu-project,
+.menu-information {
+    padding: 35px 0px;
+}
+.project-link,
+.information-link {
+    font-family: "Inter";
+    font-weight: 500;
+    color: #7d7d7d;
+    line-height: 1.4;
+}
+/*------------------header-------------*/
+h1 {
+    text-align: center;
+    font-size: 32px;
+    text-shadow: 8px 10px 4px rgb(215, 33, 33);
+    font-weight: 600;
+    font-style: italic;
+}
+.content-title {
+    font-size: 28px;
+    color: darkcyan;
+}
+.menu-item {
+    text-decoration: underline;
+}
+.menu-link {
+    font-family: "AvenirLT";
+    font-weight: 300;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+}
+/*----------------Main------------*/
+.title-games {
+    font-weight: 600;
+    font-style: italic;
+    word-spacing: 10px;
+}
+.content-text-one {
+    color: black;
+    text-align: right;
+    width: 1000px;
+    text-shadow: 3px 5px 2px silver;
+    line-height: 2;
+}
+.content-row-two {
+    text-align: right;
+}
+.history-game-title {
+    font-weight: 700;
+    color: red;
+    text-shadow: -4px 4px 2px darkred;
+    letter-spacing: 10px;
+}
+.content-text-two > p {
+    font-family: "Noto Serif Display";
+    font-weight: 400;
+    background-color: beige;
+    text-transform: lowercase;
+    line-height: 1.5;
+}
+.content-text-row {
+    font-family: "Noto Serif Display";
+    font-weight: 700;
+    font-style: italic;
+    color: beige;
+    background-color: black;
+    text-align: left;
+    line-height: 2;
+    text-indent: 20px;
+}
+.title-types {
+    text-transform: uppercase;
+    color: green;
+    text-shadow: 10px 5px 2px darkgreen;
+}
+.content-text-three {
+    font-family: "CoreSansDs";
+    font-weight: 500;
+}
+/*-------------------consulting-block-----------*/
+.block-consulting {
+    margin-bottom: 42px;
+}
+.consulting-title {
+    color: #37393f;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.27;
+}
+.multimedia-title {
+    color: #6b77e5;
+    font-size: 20px;
+    line-height: 1.25;
+}
+/*----------------project-block------------*/
+.project-title {
+    font-family: "Poppins";
+    font-weight: 700;
+    color: #37393f;
+    font-size: 40px;
+    line-height: 1.3;
+}
+.block-text {
+    line-height: 1.4;
+}
+.text {
+    padding-bottom: 15px;
+}
+.menu-project {
+    padding: 35px 0px;
+}
+/*---------------footer----------*/
+.footer-menu {
+    background-color: rgb(27, 21, 21);
+}
+.footer-link {
+    font-family: "CoreSansDs";
+    font-weight: 100;
+    color: lime;
+}
